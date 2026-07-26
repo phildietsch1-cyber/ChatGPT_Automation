@@ -1,0 +1,7 @@
+{
+  "log_level": "INFO",
+  "download_dir": "downloads",
+  "upload_dir": "uploads",
+  "archive_dir": "archive",
+  "headless": false
+}
